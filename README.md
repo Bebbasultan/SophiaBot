@@ -1,3 +1,5 @@
+
+
 <h1 align="center"><b>❤ Sophia v3 ❤</b></h1>
 
 
@@ -31,7 +33,7 @@ Complete guide on deploying @SophiaSLBot's clone on Heroku.
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Yyw2TfwQTSg)
 
 ### Deploy To Heroku</h4>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Sophiabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bebbasultan/Sophiabot)
 
 
 
